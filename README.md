@@ -1,11 +1,11 @@
-# note-share
-Sharing notes for different courses
+# notes
+notes for different courses
 
 ## How to submit/commit notes
 
 for absoulute beginners to github 
 
-In the main directory `note-share/` create a new folder with the EXACT course name (if it doesn't exist already).
+In the main directory `notes/` create a new folder with the EXACT course name (if it doesn't exist already).
 
 Inside of those main course folders will be two folders one for smester 1 & 2.
 
